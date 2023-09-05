@@ -1,0 +1,3 @@
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/ATEN-International/ai-voice-sdk-nodejs.git
